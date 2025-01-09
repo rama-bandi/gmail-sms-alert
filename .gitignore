@@ -1,0 +1,11 @@
+# Credentials and tokens
+token.json
+google-credentials.json
+config.ini
+phone_numbers.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env 
